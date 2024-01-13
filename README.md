@@ -21,6 +21,9 @@ Here's a list of the dashboards available in this repository:
     - Enhanced user interactivity by implementing region selection and time range filters, offering a tailored view of bike ride patterns.
     - Analyzed seasonal variations and visualized temperature-wind speed relationships through a heatmap, providing insights into weather-driven ride patterns.
 
+### Dashboard Preview
+
+[![Weather Effects on Bike Rides](https://github.com/patelvishwa1999/Tableau-Dashboards/blob/3a6e343d5895f775db7beb692b1224187792ab2d/visuals/bikeRides/fulldashboard.png)](https://public.tableau.com/app/profile/vishwa.patel1372/viz/BikeRidesDataAnalysis/Dashboard1)
 Interact on <a href="https://public.tableau.com/app/profile/vishwa.patel1372/viz/BikeRidesDataAnalysis/Dashboard1" style="text-decoration:none;">
 Tableau Public 
         </a>
